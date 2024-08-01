@@ -13,7 +13,7 @@ export default function Banner() {
             <div className="text-slate-500 inline-flex">
               <a
                 className="font-medium hover:underline text-slate-50"
-                href=""
+                href="https://www.instagram.com/vargasbrj5668"
                 target="_blank"
                 rel="noreferrer"
               >
