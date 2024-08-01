@@ -20,7 +20,7 @@ export default function Banner() {
                 Hire me<span className="hidden sm:inline"> on Instagram</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="https://wa.me/085157756903" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-emerald-400" href="https://wa.me/6285157756903" target="_blank" rel="noreferrer">
                 Hire me on Whats'App
               </a>
             </div>
