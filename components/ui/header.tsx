@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link  from 'next/link'
 import MobileMenu from './mobile-menu'
 
 export default function Header() {

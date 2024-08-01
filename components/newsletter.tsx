@@ -14,7 +14,7 @@ export default function Newsletter() {
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Enjoyyy</h3>
-              <p className="text-purple-200 text-lg">Kritik Dan saran</p>
+              <p className="text-purple-200 text-lg">saran</p>
             </div>
 
             {/* CTA form */}

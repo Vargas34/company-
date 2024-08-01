@@ -1,5 +1,3 @@
-import VideoThumb from '@/public/images/vrg.jpg'
-import ModalVideo from '@/components/modal-video'
 
 export default function Hero() {
   return (
